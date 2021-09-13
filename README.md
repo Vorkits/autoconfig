@@ -5,6 +5,7 @@
 sudo apt install nginx
 MUST HAVE CERTBOT  in your system
 ```
+https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx
 # START SCRIPT
 =====================
 ```bash
